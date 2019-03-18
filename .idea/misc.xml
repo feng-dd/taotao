@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Autowired" />
+    </list>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-common" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-content" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-manager" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-mananger-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-order" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-search" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-sso" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-parent/taotao-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotaocommon" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/taotao-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-common/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-mananger-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-manager/taotao-manager-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-content/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-search/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-sso-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-order-web/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-parent/taotao-manager/taotao-manager-web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/taotao-parent">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="http://desktop-lb7rl57/svn/taotao-javaee/trunk/taotao-parent/branches" />
+                  <option value="http://desktop-lb7rl57/svn/taotao-javaee/trunk/taotao-parent/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="http://desktop-lb7rl57/svn/taotao-javaee/trunk/taotao-parent/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

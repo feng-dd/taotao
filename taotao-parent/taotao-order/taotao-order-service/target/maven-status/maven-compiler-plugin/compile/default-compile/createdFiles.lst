@@ -1,0 +1,4 @@
+com\taotao\jedis\service\impl\JedisClientCluster.class
+com\taotao\jedis\service\impl\JedisClientPool.class
+com\taotao\order\service\impl\OrderServiceImpl.class
+com\taotao\order\job\OrderJob.class

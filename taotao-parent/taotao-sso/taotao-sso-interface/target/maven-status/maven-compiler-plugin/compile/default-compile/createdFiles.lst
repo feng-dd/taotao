@@ -1,0 +1,2 @@
+com\taotao\sso\service\UserService.class
+com\taotao\jedis\service\JedisClient.class
