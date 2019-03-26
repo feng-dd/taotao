@@ -1,0 +1,3 @@
+com\taotao\service\ItemService.class
+com\taotao\service\ItemCatService.class
+com\taotao\jedis\service\JedisClient.class
